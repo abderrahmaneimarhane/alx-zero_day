@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1718195501,,"wq"
+|2,0,1718232140,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,261 @@
 # Registers:
 
 # File marks:
-'0  2  12  ~/bash/school
-|4,48,2,12,1718195501,"~/bash/school"
-'1  2  9  ~/bash/alx
-|4,49,2,9,1718195465,"~/bash/alx"
+'0  2  45  ~/README.md
+|4,48,2,45,1718232140,"~/README.md"
+'1  1  1  ~/alx-zero_day/0x03-git/.gitignore
+|4,49,1,1,1718198035,"~/alx-zero_day/0x03-git/.gitignore"
+'2  1  0  ~/alx-zero_day/0x03-git/gitignore
+|4,50,1,0,1718198018,"~/alx-zero_day/0x03-git/gitignore"
+'3  2  12  ~/alx-zero_day/0x03-git/bash/school
+|4,51,2,12,1718196446,"~/alx-zero_day/0x03-git/bash/school"
+'4  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,52,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+'5  2  12  ~/bash/school
+|4,53,2,12,1718195501,"~/bash/school"
+'6  2  9  ~/bash/alx
+|4,54,2,9,1718195465,"~/bash/alx"
 
 # Jumplist (newest first):
+-'  2  45  ~/README.md
+|4,39,2,45,1718232140,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1718232033,"~/README.md"
+-'  1  1  ~/alx-zero_day/0x03-git/.gitignore
+|4,39,1,1,1718198035,"~/alx-zero_day/0x03-git/.gitignore"
+-'  1  1  ~/alx-zero_day/0x03-git/.gitignore
+|4,39,1,1,1718198035,"~/alx-zero_day/0x03-git/.gitignore"
+-'  1  0  ~/alx-zero_day/0x03-git/gitignore
+|4,39,1,0,1718198018,"~/alx-zero_day/0x03-git/gitignore"
+-'  1  0  ~/alx-zero_day/0x03-git/gitignore
+|4,39,1,0,1718198018,"~/alx-zero_day/0x03-git/gitignore"
+-'  1  0  ~/alx-zero_day/0x03-git/gitignore
+|4,39,1,0,1718198018,"~/alx-zero_day/0x03-git/gitignore"
+-'  1  0  ~/alx-zero_day/0x03-git/gitignore
+|4,39,1,0,1718198018,"~/alx-zero_day/0x03-git/gitignore"
+-'  2  12  ~/alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1718196446,"~/alx-zero_day/0x03-git/bash/school"
+-'  2  12  ~/alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1718196446,"~/alx-zero_day/0x03-git/bash/school"
+-'  2  12  ~/alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1718196446,"~/alx-zero_day/0x03-git/bash/school"
+-'  2  12  ~/alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1718196446,"~/alx-zero_day/0x03-git/bash/school"
+-'  2  12  ~/alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1718196446,"~/alx-zero_day/0x03-git/bash/school"
+-'  2  12  ~/alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1718196446,"~/alx-zero_day/0x03-git/bash/school"
+-'  2  12  ~/alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1718196446,"~/alx-zero_day/0x03-git/bash/school"
+-'  2  12  ~/alx-zero_day/0x03-git/bash/school
+|4,39,2,12,1718196446,"~/alx-zero_day/0x03-git/bash/school"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1718196426,"~/alx-zero_day/0x03-git/bash/school"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1718196426,"~/alx-zero_day/0x03-git/bash/school"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1718196426,"~/alx-zero_day/0x03-git/bash/school"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1718196426,"~/alx-zero_day/0x03-git/bash/school"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1718196426,"~/alx-zero_day/0x03-git/bash/school"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1718196426,"~/alx-zero_day/0x03-git/bash/school"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1718196426,"~/alx-zero_day/0x03-git/bash/school"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/school
+|4,39,1,0,1718196426,"~/alx-zero_day/0x03-git/bash/school"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  9  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,2,9,1718196407,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  1  0  ~/alx-zero_day/0x03-git/bash/alx
+|4,39,1,0,1718196391,"~/alx-zero_day/0x03-git/bash/alx"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1718195501,"~/bash/school"
 -'  2  12  ~/bash/school
 |4,39,2,12,1718195501,"~/bash/school"
 -'  1  0  ~/bash/school
 |4,39,1,0,1718195484,"~/bash/school"
--'  2  9  ~/bash/alx
-|4,39,2,9,1718195465,"~/bash/alx"
--'  2  9  ~/bash/alx
-|4,39,2,9,1718195465,"~/bash/alx"
--'  1  0  ~/bash/alx
-|4,39,1,0,1718195437,"~/bash/alx"
--'  1  0  ~/bash/alx
-|4,39,1,0,1718195437,"~/bash/alx"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718195484,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718195484,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718195484,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718195484,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718195484,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718195484,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718195484,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718195484,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718195484,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718195484,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1718195484,"~/bash/school"
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	*	1718232135	0
+	"	2	45
+	^	2	46
+	.	2	45
+	+	1	11
+	+	1	0
+	+	2	45
+
+> ~/alx-zero_day/0x03-git/.gitignore
+	*	1718198033	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> ~/alx-zero_day/0x03-git/gitignore
+	*	1718198015	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/alx-zero_day/0x03-git/bash/school
+	*	1718196443	0
+	"	2	12
+	^	2	13
+	.	2	12
+	+	2	12
+
+> ~/alx-zero_day/0x03-git/bash/alx
+	*	1718196405	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	2	9
 
 > ~/bash/school
 	*	1718195498	0
